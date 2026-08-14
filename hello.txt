@@ -1,2 +1,4 @@
 diff
 feature stuff
+conflict 1
+conflict 2
